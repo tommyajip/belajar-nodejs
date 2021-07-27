@@ -1,0 +1,24 @@
+{
+  "name": "belajar-nodejs",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "tommyajip",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "express": "^4.17.1",
+    "pg": "^8.6.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.6.5",
+    "yarn": "^1.22.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  },
+  "keywords": [],
+  "description": ""
+}
